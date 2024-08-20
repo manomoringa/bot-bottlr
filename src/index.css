@@ -1,0 +1,17 @@
+.Home {
+  display: flex;
+  color: rgb(8, 36, 26);
+  padding: 20px;
+  margin: auto;
+  border-radius: 10px;
+  background-color: aquamarine;
+  justify-content: space-around;
+}
+.Home button {
+  cursor: pointer;
+  color: blue;
+}
+.avatar {
+  background-color: blueviolet;
+  border: yellowgreen;
+}
